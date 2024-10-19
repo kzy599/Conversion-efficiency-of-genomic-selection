@@ -1,4 +1,4 @@
-# Conversion-efficiency-of-genomic-selection
+![image](https://github.com/user-attachments/assets/b53086c2-cf9d-4385-8c87-73b3ba9bbba6)# Conversion-efficiency-of-genomic-selection
 
 # Simulation Code for Genomic Selection Strategies in Aquaculture Breeding
 
@@ -100,7 +100,7 @@ For questions or further assistance, please contact:
 
 - - **[Sheng Luan]**
 - **Email**: [luansheng@ysfri.ac.cn]
-- **Institution**: [Ocean university of China]
+- **Institution**: [Yellow Sea Fisheries Research Institute, Chinese Academy of Fishery Sciences]
 
 ---
 
