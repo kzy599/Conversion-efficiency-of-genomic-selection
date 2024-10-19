@@ -98,7 +98,7 @@ For questions or further assistance, please contact:
 - **Email**: [kangziyi1998@163.com]
 - **Institution**: [Ocean university of China]
 
-- - **[Sheng Luan]**
+- **[Sheng Luan]**
 - **Email**: [luansheng@ysfri.ac.cn]
 - **Institution**: [Yellow Sea Fisheries Research Institute, Chinese Academy of Fishery Sciences]
 
