@@ -30,7 +30,7 @@ Additionally, install the R packages listed in `package.R`.
 The program automatically extracts parameters from the directory name. Please name the directory using the following format:
 
 ```
-[model][panel_density][I/F][reference_size]
+[model][panel_density][IT/IF][reference_size]
 ```
 
 **Example:**
