@@ -14,7 +14,7 @@ if(usePed){
     colnames(ped_ne) = c("id","sir","dam")
   }else{
     pop_par = candidate[unique(c(pop@mother,pop@father))]
-    ped_temp = data.table(id = pop_par@id, sir = NA, dam = NA)
+    ped_temp = data.table(id = pop_par@id, sir = pop_par@father, dam = pop_par@mother)
     colnames(ped_temp) = c("id","sir","dam")
     ped_ne = rbind(ped_ne,ped_temp)
   }
